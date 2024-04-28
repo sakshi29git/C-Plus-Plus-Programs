@@ -19,5 +19,5 @@ int main()
 	cout<<"Enter number: ";
 	cin>>num;
 	
-	cout<<fact(num);
+	cout<<"Factorial of "<<num<<" is: "fact(num);
 }
